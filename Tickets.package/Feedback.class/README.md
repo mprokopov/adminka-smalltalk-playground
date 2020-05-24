@@ -1,0 +1,1 @@
+Feedback is a spatial ticket type

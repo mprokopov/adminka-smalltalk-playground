@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Tickets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"status",
+		"type",
+		"initiator",
+		"history",
+		"client"
+	],
+	"name" : "Ticket",
+	"type" : "normal"
+}

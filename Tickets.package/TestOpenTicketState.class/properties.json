@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Tickets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"client",
+		"agreement",
+		"anAgreement",
+		"employee",
+		"ticket",
+		"service"
+	],
+	"name" : "TestOpenTicketState",
+	"type" : "normal"
+}

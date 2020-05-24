@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TestAssignedTicketState",
+	"category" : "Tickets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TestInProgressTicketState",
+	"type" : "normal"
+}

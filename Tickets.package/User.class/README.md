@@ -1,0 +1,1 @@
+User class for IT-Premium employees

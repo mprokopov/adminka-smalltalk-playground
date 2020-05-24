@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestOpenTicketState",
+	"category" : "Tickets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"user",
+		"incident",
+		"rfc"
+	],
+	"name" : "TestClassifiedTicketState",
+	"type" : "normal"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Ticket",
+	"category" : "Tickets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"service",
+		"level",
+		"agreement",
+		"ticket",
+		"responsible"
+	],
+	"name" : "TicketWithSla",
+	"type" : "normal"
+}

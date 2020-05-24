@@ -1,0 +1,1 @@
+When ticket asssigned use this class

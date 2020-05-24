@@ -1,0 +1,1 @@
+Open state is a first state when Ticket is open

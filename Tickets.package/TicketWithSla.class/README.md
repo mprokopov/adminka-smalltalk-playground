@@ -1,0 +1,1 @@
+Abstract class for Incident, ServiceRequest, Feedback
