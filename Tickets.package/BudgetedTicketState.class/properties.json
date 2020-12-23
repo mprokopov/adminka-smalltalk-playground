@@ -1,11 +1,13 @@
 {
 	"commentStamp" : "<historical>",
 	"super" : "TicketState",
-	"category" : "Tickets",
+	"category" : "Tickets-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"budget"
+	],
 	"name" : "BudgetedTicketState",
 	"type" : "normal"
 }

@@ -1,14 +1,16 @@
 {
 	"commentStamp" : "<historical>",
 	"super" : "Object",
-	"category" : "Tickets",
+	"category" : "Tickets-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
 		"description",
 		"service",
-		"level"
+		"level",
+		"startDate",
+		"endDate"
 	],
 	"name" : "Agreement",
 	"type" : "normal"

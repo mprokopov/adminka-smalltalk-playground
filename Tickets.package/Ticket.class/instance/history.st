@@ -1,3 +1,3 @@
 accessing
 history
-	^ history
+	^ history ifNil: [ history := OrderedCollection new ]

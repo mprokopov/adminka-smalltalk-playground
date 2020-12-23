@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "TestOpenTicketState",
-	"category" : "Tickets",
+	"category" : "Tickets-Tests",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

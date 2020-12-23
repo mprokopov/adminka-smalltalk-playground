@@ -1,3 +1,4 @@
 initialization
 printOn: aStream
-	aStream << 'Service ' ; << name
+	super printOn: aStream .
+	aStream << ' ' << name

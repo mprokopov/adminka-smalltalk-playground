@@ -1,3 +1,4 @@
 initialization
 printOn: aStream
-	aStream nextPutAll: name
+	super printOn: aStream .
+	aStream nextPutAll: ' '; nextPutAll: self name

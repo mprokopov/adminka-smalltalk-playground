@@ -1,6 +1,4 @@
 initialization
 printOn: aStream
-	aStream nextPutAll: self class asString; nextPutAll: ' '.
-	status printOn: aStream.
-
-	
+	super printOn: aStream .
+	aStream nextPutAll: ' in state '; nextPutAll: status printString

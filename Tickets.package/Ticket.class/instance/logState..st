@@ -1,3 +1,3 @@
 initialization
 logState: aState
-	history add: aState.
+	self history add: aState.

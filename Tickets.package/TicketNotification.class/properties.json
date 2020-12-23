@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TicketState",
+	"category" : "Tickets-Notifications",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ticket"
+	],
+	"name" : "TicketNotification",
+	"type" : "normal"
+}

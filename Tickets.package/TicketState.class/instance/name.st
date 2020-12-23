@@ -1,3 +1,3 @@
 initialization
 name
-	name
+	^self subclassResponsibility
